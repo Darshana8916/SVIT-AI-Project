@@ -18,6 +18,8 @@ An AI agent that analyzes skills, suggests job roles, identifies skill gaps, cre
 Tech Stack:
 Flowise, Groq
 
+
+
 --------------------------------------------------
 
 Project 2: Study Mentor
