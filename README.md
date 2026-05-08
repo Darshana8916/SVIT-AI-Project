@@ -11,6 +11,7 @@ During the Agentic AI Bootcamp and Mini Hackathon, I built 6 AI projects using f
 
 --------------------------------------------------
 
+
 Project 1: Career Assistant
 
 An AI agent that analyzes skills, suggests job roles, identifies skill gaps, creates a study plan, and gives interview questions.
