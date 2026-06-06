@@ -101,3 +101,12 @@ April 2026
 
 
 -----------------
+1}Tech Stack Used
+
+Flowise
+Groq
+Python
+Streamlit
+LangChain
+GitHub
+Prompt Engineering
