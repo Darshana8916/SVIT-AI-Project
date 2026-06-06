@@ -99,3 +99,16 @@ Built During
 SVIT Agentic AI Bootcamp and Mini Hackathon
 April 2026
 ----------------------------
+Project 5: Mini Hackathon Project
+
+Project Name:
+AI Campus Navigation & Helpdesk Bot
+
+Problem Solved:
+New students don't know classrooms, offices, departments, deadlines, campus services.
+
+Solution:
+AI chatbot for college-specific queries. Features: Where is lab X? Fee deadline reminders Department contacts Event updates
+
+Tech Stack:
+Flowise, Groq
