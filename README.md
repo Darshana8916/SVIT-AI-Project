@@ -98,10 +98,4 @@ Built During
 
 SVIT Agentic AI Bootcamp and Mini Hackathon
 April 2026
-
-
------------------
-1}Tech Stack Used
-
-Flowis
-
+----------------------------
