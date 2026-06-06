@@ -115,5 +115,4 @@ Prompt Engineering
 SVIT Agentic AI Bootcamp and Mini Hackathon
 April 2026
 
-SVIT Agentic AI Bootcamp and Mini 
 
