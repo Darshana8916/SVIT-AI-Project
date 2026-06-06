@@ -101,8 +101,3 @@ April 2026
 
 
 -----------------
-hhhhhhdddddgggddddddssssss
-dddddgggggcccxxxxddddddddddssssddddddd
-ddddddddrrrddddsssssssssddddccccccc
-ccccccccccccccccccdddddddd
-ghhdddddddddddddddddddddddd
